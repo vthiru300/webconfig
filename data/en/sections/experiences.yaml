@@ -1,0 +1,57 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Wipro Technologies
+    url: "https://www.wipro.com/"
+    location: Bangalore Branch
+    # company overview
+    overview: Wipro is a widely recognized company for cloud-native development.
+  positions:
+  - designation: Project Engineer
+    start: Aug 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Project Related Training-Automation- Integration Testing and Unit Testing on the Car Infotainment System, python scripting using OOPs concept. 
+    - Worked on Script development, bug fixing, API development using python and C.
+    - Worked in the lab to schedule test runs and perform Regression Testing.
+    - Hands on experience building test Automation for the Comfort and Control Module and Navigation Module of the Infotainment system.
+    - Developed deeper understanding of automotive industry and gain insights on the broader disciplines in this domain. Developed lean and agile methodology skills working on this project.
+
+
+- company:
+    name: Acceleron Labs
+    url: "https://www.preexample.com"
+    location: Bangalore
+    overview: something about the peoject
+  positions:
+  - designation: Software Intern
+    start: Jan 2019
+    end: March 2019
+    responsibilities:
+    - Created an application that calculated power consumption, CPU memory usage, and internal performance of the product using Apache Spark and set up an Environment in the lab for Distributed Computation
+
+
+- company:
+    name: Ezenith Pvt Ltd
+    url: "https://www.preexample.com"
+    location: Bangalore
+    overview: something about the peoject
+  positions:
+  - designation: Engg Intern
+    start: Jan 2018
+    end: March 2018
+    responsibilities:
+    - Built a drone for area surveillance application.
+    - Flight time of 45 minutes and the drone covered a 1xxx sqms area of the neighborhood.

@@ -1,0 +1,31 @@
+# section information
+section:
+  name: Work Portfolio
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Academic
+  filter: "academic"
+- name: Art
+  filter: "art"
+
+# your projects
+projects:
+- name: Need to change
+  logo: /images/sections/projects/cloud.png
+  role: Contributor
+  timeline: "March 2018 - Present"
+  url: /images/sections/projects/cloud.png  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: See if art can be showcased here.
+  tags: ["art"]
+

@@ -1,0 +1,54 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Software Engineer
+# your company information
+company:
+  name: Wipro
+  url: "https://www.wipro.com/"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I am a passionate software engineer with 2 years of working experience. I am also iterested in the field of study where techonology meets art.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "vthiru300@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/vthiru300"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/varsha-thiru-6a801b11b/"
+
+- name: Instagram
+  icon: "fab fa-instagram"
+  url: "#"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Team Work
+  percentage: 90
+  color: yellow
+- name: Communication
+  percentage: 90
+  color: orange
+- name: Perspective
+  percentage: 95
+  color: pink
