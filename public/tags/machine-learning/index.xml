@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>machine learning on Varsha&#39;s Blog</title>
+    <link>https://vthiru300.github.io/tags/machine-learning/</link>
+    <description>Recent content in machine learning on Varsha&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Aug 2021 08:06:25 +0600</lastBuildDate><atom:link href="https://vthiru300.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drone Internship</title>
+      <link>https://vthiru300.github.io/posts/droneworks/</link>
+      <pubDate>Sun, 08 Aug 2021 08:06:25 +0600</pubDate>
+      
+      <guid>https://vthiru300.github.io/posts/droneworks/</guid>
+      <description>Internship Experince The picture represents one of the early experiences I had with machines. Apart from using the ticketing systems in buses and trains in Japan, I had the opportunity to use vending machines and automated ordering systems in restaurants. As a child, I was fond of using these systems. At school, every Friday, we were allowed to get money to vend-out our favorite drink after lunch. I would find every opportunity to make my parents buy food or a drink from these machines.</description>
+    </item>
+    
+  </channel>
+</rss>

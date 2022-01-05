@@ -35,9 +35,6 @@ socialLinks:
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/varsha-thiru-6a801b11b/"
 
-- name: Instagram
-  icon: "fab fa-instagram"
-  url: "#"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.

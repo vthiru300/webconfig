@@ -13,7 +13,7 @@ experiences:
 - company:
     name: Wipro Technologies
     url: "https://www.wipro.com/"
-    location: Bangalore Branch
+    location: Bangalore 
     # company overview
     overview: Wipro is a widely recognized company for cloud-native development.
   positions:
@@ -23,7 +23,7 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Project Related Training-Automation- Integration Testing and Unit Testing on the Car Infotainment System, python scripting using OOPs concept. 
+    - Project Related Training - Automation - Integration Testing and Unit Testing on the Car Infotainment System, python scripting using OOPs concept. 
     - Worked on Script development, bug fixing, API development using python and C.
     - Worked in the lab to schedule test runs and perform Regression Testing.
     - Hands on experience building test Automation for the Comfort and Control Module and Navigation Module of the Infotainment system.
@@ -32,9 +32,9 @@ experiences:
 
 - company:
     name: Acceleron Labs
-    url: "https://www.preexample.com"
+    url: "https://acceleronlabs.com/"
     location: Bangalore
-    overview: something about the peoject
+    overview: Overview
   positions:
   - designation: Software Intern
     start: Jan 2019
@@ -45,11 +45,11 @@ experiences:
 
 - company:
     name: Ezenith Pvt Ltd
-    url: "https://www.preexample.com"
+    url: "https://in.linkedin.com/company/ezenithedu"
     location: Bangalore
-    overview: something about the peoject
+    overview: Overview
   positions:
-  - designation: Engg Intern
+  - designation: Intern
     start: Jan 2018
     end: March 2018
     responsibilities:

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>signal processing on Varsha&#39;s Blog</title>
+    <link>https://vthiru300.github.io/tags/signal-processing/</link>
+    <description>Recent content in signal processing on Varsha&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Jul 2021 08:06:25 +0600</lastBuildDate><atom:link href="https://vthiru300.github.io/tags/signal-processing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Heart Rate Monitor</title>
+      <link>https://vthiru300.github.io/posts/heartratemonitor/</link>
+      <pubDate>Thu, 08 Jul 2021 08:06:25 +0600</pubDate>
+      
+      <guid>https://vthiru300.github.io/posts/heartratemonitor/</guid>
+      <description>Abstract The image above is the picture of the heart rate monitor I made during my 2nd year of my undergraduate. I was very intrigued by the way in which the pulse from the body was detected and processed into a wave via a myriad of circuits. It opened up doors for me to navigate through embedded systems, signal processing, image processing and C coding which I would learn in the later semesters.</description>
+    </item>
+    
+  </channel>
+</rss>
