@@ -1,0 +1,79 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Bachelor of Engineering in Electronics and Communication
+  icon: fa-graduation-cap
+  timeframe: 2015-2019
+  institution:
+    name: PES University South Campus
+    url: https://pesitsouth.pes.edu/
+  grade: #(optional)
+    scale: CGPA
+    achieved: 7.52
+    outOf: 10
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    collapseAfter: 4
+    courses:
+    - name: Embedded Systems
+      achieved: 3.75
+      outOf: 4
+    - name: Digital Signal Processing
+      achieved: 3.75
+      outOf: 4
+    - name: Pattern Recognition
+      achieved: 3.75
+      outOf: 4
+    - name: Neural Networks
+    - name: Computer Networking
+    - name: Cryptography
+    - name: Digital Image Processing
+    - name: Linear Integrated Circuits
+    - name: Object Oriented Programming in C
+    - name: Data Structures in C++  
+- name: Pre-University College (11th and 12th Grade)
+  icon: fa-graduation-cap
+  timeframe: 2013-2015
+  institution:
+    name: Jain College Jayanagar
+    url: "#"
+  grade: #(optional)
+    scale: Percentage
+    achieved: 90.33
+    outOf: 100
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    collapseAfter: 2
+    courses:
+    - name: Physics
+      achieved: 3.75
+      outOf: 4
+    - name: Chemistry
+      achieved: 3.80
+      outOf: 4
+    - name: Mathematics
+      achieved: 3.5
+      outOf: 4
+    - name: Biology
+      achieved: 3.75
+      outOf: 4
+- name: School
+  icon: fa-school
+  timeframe: 2003-2013
+  institution:
+    name: St. Francis School
+  grade: #(optional)
+    scale: Percentage
+    achieved: 82.33
+    outOf: 100

@@ -8,9 +8,11 @@ menu:
     identifier: internship
     weight: 20
 hero: image2.jpg
-tags: ["internship", "drone", "machine learning"]
+tags: ["internship", "drone", "flying device"]
 
 ---
 
 ### Internship Experince
-The picture represents one of the early experiences I had with machines. Apart from using the ticketing systems in buses and trains in Japan, I had the opportunity to use vending machines and automated ordering systems in restaurants. As a child, I was fond of using these systems. At school, every Friday, we were allowed to get money to vend-out our favorite drink after lunch. I would find every opportunity to  make my parents buy food or a drink from these machines. I was extremely amused to have made this the topic of my final year project. Although these machines are readily available, recreating this machine created an opportunity to build the skill of integration and understanding the way embedded systems work. The process of separately testing each component and integrating all of them with code enabled us to hone and gain confidence on the subject we learned as a part of the curriculum.
+The Drone internship was one of the best memories I made in my undergraduate course.  We were a group of 10 people and built a drone for area surveillance application.  We belonged to different courses and colleges and had a lot to learn from our experiences. The guy who was from Mechanical Engineering who now is my dear friend taught us about the structural architecture of the drone. The guys from the Computer Science worked on code optimization, and my friend and I who were from Electronics and Communication course worked on the internal circuit. We had a tremendous exchange of knowledge and experience. We happened to win the drone contest against other teams. Our drone had a flight time of 15 minutes and covered a large area of the neighborhood. 
+
+{{< img src="/posts/droneworks/group_photo.jpg" height="500" width="600" align="center" title="Group_photo" >}}

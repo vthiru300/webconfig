@@ -1,0 +1,44 @@
+# section information
+section:
+  name: Accomplishments
+  id: accomplishments
+  enable: true
+  weight: 50
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+# Your accomplishments
+accomplishments:
+- name: Linux Mastery
+  timeline: "March 2020"
+  organization:
+    name: Udemy
+    url: https://www.wipro.udemy.com
+  courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
+  certificateURL: "https://wipro.udemy.com/certificate/UC-511ecaf7-239c-4066-807c-dbe965053c16/"
+
+- name: SOLID Pronciples - Introducing software Architecture and design 
+  timeline: "March 2020"
+  organization:
+    name: Udemy
+    url: https://www.udemy.com
+  courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, mulithreading topics.
+  certificateURL: "https://wipro.udemy.com/certificate/UC-03b5ce96-2c25-4a6b-ac2f-8dfe5883be30/"
+
+- name:  Neural Networks and Deep Learning
+  timeline: "Aug 2018"
+  organization:
+    name: Coursera
+    url: https://www.coursera.org
+  courseOverview: This course provides insights to significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include - (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
+  certificateURL: "https://www.coursera.org/account/accomplishments/verify/MHDPNR9CGEYN"
+
+- name: Drone Works
+  timeline: "Jan 2018 - Sept 2018"
+  organization:
+    name: educative
+    url: https://www.educative.io
+  courseOverview: This course is a complete guide to master the SDIs. It is created by hiring managers who’ve been working at Google, Facebook, Microsoft, and Amazon. We've carefully chosen a set of questions that have not only been repeatedly asked at top companies, but also provide a thorough experience to handle any system design problem.
+  certificateURL: "https://example.com"

@@ -3,7 +3,7 @@ section:
   name: About
   id: about
   enable: true
-  weight: 1
+  weight: 0
   showOnNavbar: true
   template: sections/about.html
 
@@ -18,7 +18,7 @@ company:
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with 2 years of working experience. I am also iterested in the field of study where techonology meets art.'
+summary: 'I am a passionate software engineer with 2 years of working experience. I am also interested in the field of study where techonology meets art.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -46,6 +46,12 @@ softSkills:
 - name: Communication
   percentage: 90
   color: orange
-- name: Perspective
+- name: Proactive
   percentage: 95
   color: pink
+- name: Lean Method
+  percentage: 85
+  color: green
+- name: Agile Method  
+  percentage: 85
+  color: blue

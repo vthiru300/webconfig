@@ -3,7 +3,7 @@ section:
   name: Skills
   id: skills
   enable: true
-  weight: 2
+  weight: 6
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -12,15 +12,24 @@ section:
 # Give a summary of you each skill in the summary section.
 skills:
 - name: Git
-  logo: "/images/sections/git.png"
+  logo: "/images/sections/skills/git.png"
   summary: "Experince with git based deployments."
   url: "https://git-scm.com/"
 
 - name: Python Automation Testing
-  logo: "/images/sections/python.png"
+  logo: "/images/sections/skills/python.png"
   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
   url: "https://python.org/"
 
 - name: Cloud Computing
-  logo: "/images/sections/cloud.png"
+  logo: "/images/sections/skills/cloud.png"
   summary: "Worked with most of the major clouds AWS."
+
+- name: Linux
+  logo: "/images/sections/skills/linux.png"
+  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+
+- name: C++
+  logo: "/images/sections/skills/c++.png"
+  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+

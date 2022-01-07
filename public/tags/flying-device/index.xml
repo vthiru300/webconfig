@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>flying device on Varsha&#39;s Blog</title>
+    <link>https://vthiru300.github.io/tags/flying-device/</link>
+    <description>Recent content in flying device on Varsha&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Aug 2021 08:06:25 +0600</lastBuildDate><atom:link href="https://vthiru300.github.io/tags/flying-device/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drone Internship</title>
+      <link>https://vthiru300.github.io/posts/droneworks/</link>
+      <pubDate>Sun, 08 Aug 2021 08:06:25 +0600</pubDate>
+      
+      <guid>https://vthiru300.github.io/posts/droneworks/</guid>
+      <description>Internship Experince The Drone internship was one of the best memories I made in my undergraduate course. We were a group of 10 people and built a drone for area surveillance application. We belonged to different courses and colleges and had a lot to learn from our experiences. The guy who was from Mechanical Engineering who now is my dear friend taught us about the structural architecture of the drone. The guys from the Computer Science worked on code optimization, and my friend and I who were from Electronics and Communication course worked on the internal circuit.</description>
+    </item>
+    
+  </channel>
+</rss>

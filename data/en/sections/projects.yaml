@@ -2,9 +2,9 @@
 section:
   name: Portfolio
   id: projects
-  enable: false
-  weight: 4
-  showOnNavbar: false
+  enable: true
+  weight: 6
+  showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
 
@@ -21,11 +21,35 @@ buttons:
 
 # your projects
 projects:
-- name: Need to change
-  logo: /images/sections/projects/cloud.png
+- name: Vending machine called VEND-TECH
   role: Contributor
-  timeline: "March 2018 - Present"
-  url: /images/sections/projects/cloud.png  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: See if art can be showcased here.
-  tags: ["art"]
+  timeline: "August 2018 - May 2019"
+  url: https://github.com/vthiru300/vending_machine_project  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Recreated a vending machine that vends out snacks and electronic components with Arm Cortex microcontroller, used RFID and GSM for cashless transaction. https://github.com/vthiru300/vending_machine_project
+  tags: ["academic","embedded systems","Project","College Project","Recreation"]
 
+- name: Heart rate monitor
+  role: Contributor
+  timeline: "2018"
+  url: https://github.com/vthiru300/heart_rate_monitor
+  summary: Made a simple heartrate monitor. https://github.com/vthiru300/heart_rate_monitor
+  tags: ["academic","embedded systems", "arduino","electronics"]
+
+- name: Mini-Projects
+  role: Contributor
+  timeline: "2015-2018"
+  url: https://github.com/vthiru300/Mini_Projects
+  summary: Followed a the tutorials of a Youtuber called Jeremy Blum, learnt to write code in embedded C for the first time. https://github.com/vthiru300/Mini_Projects
+  tags: ["academic","embedded Systems"]
+
+- name: Automation Developer and Engineer
+  role: Project Engineer
+  timeline: "August 2019 - Present"
+  summary: Script development, bug fixing, API development using Python and C, hands on experience with building test Automation for the Comfort and Control Module and Navigation Module of the FORD Infotainment system.
+  tags: ["professional", "Automotive", "Embedded Systems", "Networking"]
+
+- name: Creativity
+  timeline: "August 2019 - Present"
+  url: https://vthiru300.github.io/posts/
+  summary: Still life drawing, Watercolor Painting, Oil Painting, Mountain Trekking and Photography. Currently pursuing a diploma course in Fine Arts at FAAI(Fine Arts Academy of India).
+  tags: ["art","Fine Arts", "Painting", "Photography", "Trekking"]  

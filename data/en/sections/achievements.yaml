@@ -1,0 +1,21 @@
+# section information
+section:
+  name: Achievements
+  id: achievements
+  enable: true
+  weight: 100
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+- title: Mentor 
+  image: /images/sections/achievements/presenter.jpg
+  summary: Kludge 2k18 The Electronics Design Contest – PES University, Bangalore, Mentored the students who took part in the contest.
+- title: Graduation
+  image: /images/sections/achievements/graduation-cap.jpg
+  summary: Received Bachelor of Engineering in Electronics and Computer Science Engineering.
+- title: Award Winner
+  image: /images/sections/achievements/woman-winner.jpg
+  summary: Won 9th place and was awarded a prize money at the Indian Institute of Management, Bangalore. The Wids Datathon 2019 is a collaboration led by the Global Wids team at Stanford, the West Big Data Innovation Hub, and the Wids Datathon Committee. The challenge was to create a model that predicts the presence of oil palm plantations in Satellite imagery.
