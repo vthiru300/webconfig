@@ -19,12 +19,12 @@ accomplishments:
   courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
   certificateURL: "https://github.com/vthiru300/certificates/blob/main/linux_mastery.pdf"
 
-- name: SOLID Principles - Introducing software Architecture and design 
+- name: SOLID Principles - Introducing Software Architecture and Design 
   timeline: "March 2020"
   organization:
     name: Udemy
     url: https://www.wipro.udemy.com
-  courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, mulithreading topics.
+  courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, multithreading topics.
   certificateURL: "https://github.com/vthiru300/certificates/blob/main/solid%20principles.pdf"
 
 - name:  Neural Networks and Deep Learning
