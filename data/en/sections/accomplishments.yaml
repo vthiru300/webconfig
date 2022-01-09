@@ -32,14 +32,14 @@ accomplishments:
   organization:
     name: Coursera
     url: https://www.coursera.org
-  courseOverview: This course provides insights to significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include - (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
+  courseOverview: This course provides insights to significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.broad introduction to machine learning, datamining, and statistical pattern recognition."
   certificateURL: "https://www.coursera.org/account/accomplishments/verify/MHDPNR9CGEYN"
 
 - name: Drone Works
   timeline: "Jan 2018 - Sept 2018"
   organization:
     name: educative
-    url: https://www.educative.io
+    url: https://in.linkedin.com/company/ezenithedu
   courseOverview: Indian Drone Industry Workshop covering details on Drone Industry, UAV systems, Kinematics and Auto pilot mechanisms.
   certificateURL: "https://github.com/vthiru300/certificates/blob/main/drone_internship.pdf"
 
@@ -47,22 +47,22 @@ accomplishments:
   timeline: "July 2018"
   organization:
     name: educative
-    url: #
+    url: 
   courseOverview: Pre-conference Workshop On medical devices using Standford Bio-design process to invent new Neonatal Neurology solutions. 
-  certificateURL: "https://github.com/vthiru300/certificates/blob/main/mentor_kludge.pdf"  
+  certificateURL: "https://github.com/vthiru300/certificates/blob/main/Neo_nerocon.jpg"  
 
 - name: Mentor for the College Contest "Kludge 2k18"  
   timeline: "March 2018"
   organization:
     name: educative
-    url: #
+    url: 
   courseOverview: Mentored students who took part in the contest.
   certificateURL: "https://github.com/vthiru300/certificates/blob/main/mentor_kludge.pdf"
 
--name: 3D Printing Workshop by IEEE PESIT South Campus Student Chapter  
+- name: 3D Printing Workshop by IEEE PESIT South Campus Student Chapter  
   timeline: "March 2018"
   organization:
     name: educative
-    url: #
- courseOverview: Hands-on workshop on 3D Printing, made jewellery and keychains.
- certificateURL: "https://github.com/vthiru300/certificates/blob/main/3D%20printing.pdf"
+    url: 
+  courseOverview: Hands-on workshop on 3D Printing, made jewellery and keychains.
+  certificateURL: "https://github.com/vthiru300/certificates/blob/main/3D%20printing.pdf"
