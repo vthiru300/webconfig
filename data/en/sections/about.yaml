@@ -49,9 +49,12 @@ softSkills:
 - name: Proactive
   percentage: 95
   color: pink
-- name: Lean Method
+- name: Lean and Agile Method
   percentage: 85
   color: green
-- name: Agile Method  
+- name: Problem Solving 
   percentage: 85
   color: blue
+- name: Fast Learner
+  percentage: 95
+  color: sky
