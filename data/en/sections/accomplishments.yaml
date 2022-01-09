@@ -17,15 +17,15 @@ accomplishments:
     name: Udemy
     url: https://www.wipro.udemy.com
   courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
-  certificateURL: "https://wipro.udemy.com/certificate/UC-511ecaf7-239c-4066-807c-dbe965053c16/"
+  certificateURL: "https://github.com/vthiru300/certificates/blob/main/linux_mastery.pdf"
 
 - name: SOLID Pronciples - Introducing software Architecture and design 
   timeline: "March 2020"
   organization:
     name: Udemy
-    url: https://www.udemy.com
+    url: https://www.wipro.udemy.com
   courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, mulithreading topics.
-  certificateURL: "https://wipro.udemy.com/certificate/UC-03b5ce96-2c25-4a6b-ac2f-8dfe5883be30/"
+  certificateURL: "https://github.com/vthiru300/certificates/blob/main/solid%20principles.pdf"
 
 - name:  Neural Networks and Deep Learning
   timeline: "Aug 2018"
@@ -40,5 +40,29 @@ accomplishments:
   organization:
     name: educative
     url: https://www.educative.io
-  courseOverview: This course is a complete guide to master the SDIs. It is created by hiring managers who’ve been working at Google, Facebook, Microsoft, and Amazon. We've carefully chosen a set of questions that have not only been repeatedly asked at top companies, but also provide a thorough experience to handle any system design problem.
-  certificateURL: "https://example.com"
+  courseOverview: Indian Drone Industry Workshop covering details on Drone Industry, UAV systems, Kinematics and Auto pilot mechanisms.
+  certificateURL: "https://github.com/vthiru300/certificates/blob/main/drone_internship.pdf"
+
+- name: Attended the National Neo-Neurocon Conference  
+  timeline: "July 2018"
+  organization:
+    name: educative
+    url: #
+  courseOverview: Pre-conference Workshop On medical devices using Standford Bio-design process to invent new Neonatal Neurology solutions. 
+  certificateURL: "https://github.com/vthiru300/certificates/blob/main/mentor_kludge.pdf"  
+
+- name: Mentor for the College Contest "Kludge 2k18"  
+  timeline: "March 2018"
+  organization:
+    name: educative
+    url: #
+  courseOverview: Mentored students who took part in the contest.
+  certificateURL: "https://github.com/vthiru300/certificates/blob/main/mentor_kludge.pdf"
+
+-name: 3D Printing Workshop by IEEE PESIT South Campus Student Chapter  
+  timeline: "March 2018"
+  organization:
+    name: educative
+    url: #
+ courseOverview: Hands-on workshop on 3D Printing, made jewellery and keychains.
+ certificateURL: "https://github.com/vthiru300/certificates/blob/main/3D%20printing.pdf"
