@@ -6,7 +6,7 @@
     <description>Recent content on Varsha&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Aug 2021 08:06:25 +0600</lastBuildDate><atom:link href="https://vthiru300.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Sep 2021 08:06:25 +0600</lastBuildDate><atom:link href="https://vthiru300.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resultados de Búsqueda</title>
       <link>https://vthiru300.github.io/search/</link>
@@ -330,6 +330,15 @@ No content shown here is rendered, all content is based in the template layouts/
 Setting a very low sitemap priority will tell search engines this is not important content.
 This implementation uses Fusejs, jquery and mark.js
 Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+    </item>
+    
+    <item>
+      <title>The Spark</title>
+      <link>https://vthiru300.github.io/posts/the_spark/</link>
+      <pubDate>Fri, 10 Sep 2021 08:06:25 +0600</pubDate>
+      
+      <guid>https://vthiru300.github.io/posts/the_spark/</guid>
+      <description>Ignition The picture represents one of the early experiences I had with machines near one of the subway stations in Tokyo. Apart from using the ticketing systems in buses and trains in Japan, I had the opportunity to use vending machines and automated ordering systems in restaurants. As a child, I was fond of using these machines/devices. At school, every Friday, we were allowed to get money to vend-out our favorite drink after lunch.</description>
     </item>
     
     <item>
@@ -347,7 +356,7 @@ Initial setup Search depends on additional output content type of JSON in config
       <pubDate>Thu, 08 Jul 2021 08:06:25 +0600</pubDate>
       
       <guid>https://vthiru300.github.io/posts/artgallery/</guid>
-      <description>painting 1 painting 2 painting 3 painting 4 </description>
+      <description>Landscape - Scenery Painting A cold winter day The boys in the boat ( Painting inspired by the book) A Starry evening (My version of the Starry Night) Madhubani- A Traditional Indian Style Art SUN Peacock Fishes Indian Wall Art - Warli-painting Modern Art- Cubism Ada Lovelace Japanese Style Art Cavas-fabric painting Eiffel Tower Lady Hot-air balloons Seahorse Night-sky Doodle-works </description>
     </item>
     
     <item>
@@ -360,18 +369,9 @@ Initial setup Search depends on additional output content type of JSON in config
     </item>
     
     <item>
-      <title>The Spark</title>
-      <link>https://vthiru300.github.io/posts/the_spark/</link>
-      <pubDate>Tue, 08 Jun 2021 08:06:25 +0600</pubDate>
-      
-      <guid>https://vthiru300.github.io/posts/the_spark/</guid>
-      <description>Ignition The picture represents one of the early experiences I had with machines. Apart from using the ticketing systems in buses and trains in Japan, I had the opportunity to use vending machines and automated ordering systems in restaurants. As a child, I was fond of using these systems. At school, every Friday, we were allowed to get money to vend-out our favorite drink after lunch. I would find every opportunity to make my parents buy food or a drink from these machines.</description>
-    </item>
-    
-    <item>
       <title>Diversity Essay</title>
       <link>https://vthiru300.github.io/posts/diversityessay/</link>
-      <pubDate>Sun, 05 Jan 2020 08:06:25 +0600</pubDate>
+      <pubDate>Mon, 04 Jan 2021 08:06:25 +0600</pubDate>
       
       <guid>https://vthiru300.github.io/posts/diversityessay/</guid>
       <description>Essay Diversity resonates with me on many levels; I have had the privilege of growing up in a multicultural environment. As a native of India, my country is well-known for its diversity in languages, cultures and traditions. I have spent most of my childhood in Japan around people from various walks of life. I feel lucky to have a friend living in a different country and sharing their experiences with people.</description>

@@ -6,7 +6,7 @@ menu:
   sidebar:
     name: Heartrate Monitor
     identifier: project
-    weight: 20
+    weight: 50
 hero: image7.png
 tags: ["project", "signal processing"]
 

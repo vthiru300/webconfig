@@ -6,7 +6,7 @@ menu:
   sidebar:
     name: Drone works
     identifier: internship
-    weight: 20
+    weight: 30
 hero: image2.jpg
 tags: ["internship", "drone", "flying device"]
 

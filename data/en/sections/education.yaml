@@ -42,7 +42,7 @@ degrees:
     - name: Object Oriented Programming in C
     - name: Data Structures in C++  
 - name: Pre-University College (11th and 12th Grade)
-  icon: fa-graduation-cap
+  icon: fa-university 
   timeframe: 2013-2015
   institution:
     name: Jain College Jayanagar

@@ -1,12 +1,12 @@
 ---
 title: "Diversity Essay"
-date: 2020-01-05T08:06:25+06:00
+date: 2021-01-04T08:06:25+06:00
 description: art
 menu:
   sidebar:
     name: Diversity Essay
     identifier: diversity
-    weight: 30
+    weight: 20
 hero: diversity.png
 tags: ["diversity"]
 
