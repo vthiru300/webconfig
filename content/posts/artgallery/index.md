@@ -41,13 +41,11 @@ tags: ["art", "oil paintings", "fabric paintings", "Mordern Art", "Indian Art"]
 
 ### Japanese Style Art
 {{< img src="cherry_blossoms.png" align="center" >}}
-
 {{< img src="fishes_japanese.png" align="center" >}}
 
 ### Cavas-fabric painting
 #### Eiffel Tower
 {{< img src="eiffel_tower.png" align="center" >}}
-
 
 #### Lady
 {{< img src="lady.png" align="center" >}}
@@ -62,7 +60,11 @@ tags: ["art", "oil paintings", "fabric paintings", "Mordern Art", "Indian Art"]
 #### Night-sky
 {{< img src="swing_night.png" align="center" >}}
 
-
-
+### Sketching
+#### Ganesha
+{{< img src="ganesha.png" align="center" >}}
+{{< img src="coconut.png" align="center" >}}
 ### Doodle-works
 {{< img src="/posts/artgallery/p3.jpg" height="400" width="600" align="center" >}}
+
+
